@@ -1,17 +1,16 @@
 # DSA-Log
 
-This repository contains my practice of Data Structures and Algorithms. The goal of this log is to improve problem-solving skills, strengthen core concepts, and prepare for technical interviews.
+This repository contains my structured practice of Data Structures and Algorithms. The purpose of this log is to strengthen problem-solving skills, understand core concepts deeply, and prepare for technical interviews.
 
 Objectives
-Build strong understanding of DSA concepts
-Practice problems consistently
-Improve coding speed and accuracy
+Develop a strong foundation in Data Structures and Algorithms
+Practice problems consistently across different topics
+Improve logical thinking and coding efficiency
 Prepare for coding interviews and assessments
-
 Topics Covered
 Arrays
 Strings
-Linked List
+Linked Lists
 Stack and Queue
 Recursion and Backtracking
 Trees and Binary Trees
